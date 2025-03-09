@@ -1,6 +1,3 @@
-Here's a well-structured `README.md` file for your project:  
-
----
 
 # 🏆 AI-Powered Resume Screening & Student Ranking System  
 
@@ -51,5 +48,3 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 This project is licensed under the **MIT License**.  
 
 ---  
-
-Let me know if you need modifications! 🚀
